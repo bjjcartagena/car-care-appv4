@@ -2,7 +2,7 @@ import React from "react";
 import { HashRouter, Routes, Route, Navigate } from "react-router-dom";
 
 import Dashboard from "./pages/Dashboard";
-import Garage from "./pages/Garage";
+import Garage from "./pages/VehicleType";
 
 const App: React.FC = () => {
   return (
